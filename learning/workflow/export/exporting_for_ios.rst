@@ -48,7 +48,7 @@ Setting up the file host
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 On your PC, open the editor, and click the righ-most icon on the
-top-center group of icons, and select "Enable File Server". The icon
+top-center group of icons, and select "Small Deploy with Network". The icon
 turns red. Your PC will open a port and accept connections to serve
 files from your project's directory (so enable your local firewall
 accordingly).
